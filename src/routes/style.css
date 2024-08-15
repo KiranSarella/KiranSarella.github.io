@@ -1,0 +1,79 @@
+body {
+    margin: 80px;
+    background: hsla(245, 92%, 9%, 0.801);
+    color: #fff;
+    font-family: 'Fira Code', monospace;
+    line-height: 1.75;
+    font-size: 1.3em;
+}
+
+h1 {
+    font-size: 2.2em;
+    font-weight: 600;
+    margin: 0 0 50px;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 50px 0px 10px 0px;
+    color: bisque;
+}
+
+.dashlist ul {
+    margin: 5px 0px 0px 0px;
+    list-style: none; /* Remove the default bullet points */
+}
+
+.dashlist ul li::before {
+    content: "-"; /* Add a dash before each list item */
+    margin-right: 18px; /* Add some space between the dash and the text */
+    margin-left: -10px;
+}
+
+
+i {
+    color: #19e40acd;
+}
+
+b {
+    color: #46d23cf7;
+}
+
+.tabs b {
+    padding: 20px 0px 40px 0px;
+}
+
+.tabs ul {
+    list-style-type: none;  /* Remove bullet points */
+    margin: 10px 300px 20px 0px;
+    padding: 0;
+    display: flex;  /* Align list items horizontally */
+    flex-wrap: wrap;  /* Allow wrapping to the next line */
+  }
+  
+.tabs li {
+    padding: 8px 20px;  /* Padding inside each tab */
+}
+
+.tabs li:nth-child(even) {
+    color: #f8f8f8b3;
+}
+
+.light {
+    color: #f8f8f881;
+}
+
+.link {
+    margin: 10px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    text-decoration: underline;
+    text-decoration-color: rgb(129, 127, 127); /* Change underline color */
+}
+
+.link:hover {
+    color: rgb(72, 240, 237); /* Change text color on hover */
+}
