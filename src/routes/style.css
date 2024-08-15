@@ -5,7 +5,32 @@ body {
     font-family: 'Fira Code', monospace;
     line-height: 1.75;
     font-size: 1.3em;
+    width: 50%; /* Or any specific width */
+    margin: 80px auto 160px auto; /* Centers the block element horizontally */   
 }
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    body {
+      width: 95%; /* Adjust to 90% on smaller screens */
+      max-width: none; /* Remove maximum width */
+      font-size: 1em;
+    }
+}
+
+/* Media query for smaller screens */
+@media (max-width: 1424px) {
+    body {
+      width: 65%; /* Adjust to 90% on smaller screens */
+      max-width: none; /* Remove maximum width */
+    }
+}
+
+.centertext {
+    text-align: center;
+}
+
+
 
 h1 {
     font-size: 2.2em;
@@ -24,6 +49,7 @@ h2 {
 .dashlist ul {
     margin: 5px 0px 0px 0px;
     list-style: none; /* Remove the default bullet points */
+    text-align: left;
 }
 
 .dashlist ul li::before {
@@ -47,7 +73,7 @@ b {
 
 .tabs ul {
     list-style-type: none;  /* Remove bullet points */
-    margin: 10px 300px 20px 0px;
+    margin: 10px 0px 20px 0px;
     padding: 0;
     display: flex;  /* Align list items horizontally */
     flex-wrap: wrap;  /* Allow wrapping to the next line */
@@ -66,7 +92,7 @@ b {
 }
 
 .link {
-    margin: 10px;
+    margin: 30px;
     color: #fff;
     display: flex;
     flex-direction: column;

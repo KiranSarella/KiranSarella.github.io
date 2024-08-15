@@ -4,24 +4,30 @@
     
 </script>
 
+<div class="centertext">
 <h1>Kiran Sarella</h1>
 
-Senior Software Enginner, <div class="light">Hyderabad, India</div>
-<div></div>
+Senior Software Enginner 
+<div class="light">Hyderabad, India</div>
+</div>
+
 
 <div></div>
 <br>
 <b>11 years</b> of experience
-<div class="dashlist">
-    <ul>
-        <li>
-            iOS & mac app development <i>(8 years)</i>
-        </li>
-        <li>
-            Node.js <i>(3 years)</i>
-        </li>
-    </ul>
+<div>
+    <div class="dashlist">
+        <ul>
+            <li>
+                iOS & mac app development <i>(8 years)</i>
+            </li>
+            <li>
+                Node.js <i>(3 years)</i>
+            </li>
+        </ul>
+    </div>
 </div>
+
 
 <h2>
     Skills
