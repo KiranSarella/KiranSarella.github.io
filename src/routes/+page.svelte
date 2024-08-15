@@ -90,8 +90,6 @@ Senior Software Enginner
         <li>SvelteKit</li>
         <li>WebSocket</li>
         <li>WebRTC</li>
-        <li>Figma</li>
-        <li>UI/UX</li>
         <li>Git</li>
         <li>Jira</li>
     </ul>
