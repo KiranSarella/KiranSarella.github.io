@@ -7,14 +7,16 @@
 <div class="centertext">
 <h1>Kiran Sarella</h1>
 
-Senior Software Enginner 
+Senior Software Engineer 
 <div class="light">Hyderabad, India</div>
+
 </div>
+
 
 
 <div></div>
 <br>
-<b>11 years</b> of experience
+<b>11 years</b> of experience.
 <div>
     <div class="dashlist">
         <ul>
@@ -118,6 +120,38 @@ Senior Software Enginner
 </h2>
 
 <div>
-    <a href="mailto:kiran.sarella@gmail.com" class="link">kiran.sarella@gmail.com</a>
+    <b>
+        <a href="mailto:kiran.sarella@gmail.com" class="link">kiran.sarella@gmail.com</a>
+    </b>
+    
 </div>
 
+
+
+<h2>
+    Education
+</h2>
+
+B.Tech in Computer Science.
+
+
+<h2>
+    Projects/Clients
+</h2>
+
+<div class="column">
+    <ul>
+        <li>IPC Unigy</li>
+        <li>Mayo Clinic</li>
+        <li>Safeway Driving</li>
+        <li>Sensable Health</li>
+        <li>ProEdge Dental water labs</li>
+        <li>myColorado</li>
+        <li>Mindful Mamas</li>
+        <li>Honeywell MyGDC</li>
+        <li>B.One</li>
+        <li>Sharp SmartCentral</li>
+        <li>PartyTutor</li>
+        <li style="opacity: 0.4;">..more</li>
+    </ul>
+</div>

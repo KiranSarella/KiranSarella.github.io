@@ -103,3 +103,14 @@ b {
 .link:hover {
     color: rgb(72, 240, 237); /* Change text color on hover */
 }
+
+.column ul {
+    column-count: 2;
+    column-gap: 20px; /* Optional: Adjusts the space between columns */
+    list-style-type: none; /* Removes default bullet points */
+    padding: 0;
+}
+.column li {
+    padding: 5px;
+    margin: 5px 0;
+}
