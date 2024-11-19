@@ -111,7 +111,13 @@ Senior Software Engineer
     </a>
     <a href="https://www.linkedin.com/in/KiranSarella/" class="link" target="_blank">
         LinkedIn
+    </a> 
+    <a href="https://stackoverflow.com/users/2098686/kiran-s?tab=answers" class="link" target="_blank">
+        Stackoverflow
     </a>    
+    <a href="https://apps.apple.com/us/developer/kiran-sarella/id1595001601" class="link" target="_blank">
+        Apple Developer
+    </a>   
 </div>
 
 
@@ -149,9 +155,10 @@ B.Tech in Computer Science.
         <li>myColorado</li>
         <li>Mindful Mamas</li>
         <li>Honeywell MyGDC</li>
-        <li>B.One</li>
+        <li>B.One Hub</li>
         <li>Sharp SmartCentral</li>
         <li>PartyTutor</li>
+        <li>Notes 365</li>
         <li style="opacity: 0.4;">..more</li>
     </ul>
 </div>
