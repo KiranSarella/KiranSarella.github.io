@@ -1,5 +1,5 @@
 
-Steps:
+# Steps:
 https://github.com/metonym/sveltekit-gh-pages
 ### Step 1: adapter-static and paths
 `svelte.config.js`
