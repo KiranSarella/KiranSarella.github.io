@@ -16,12 +16,12 @@ Senior Software Engineer
 
 <div></div>
 <br>
-<b>11 years</b> of experience.
+<b>12 years</b> of experience.
 <div>
     <div class="dashlist">
         <ul>
             <li>
-                iOS & mac app development <i>(8 years)</i>
+                iOS & mac app development <i>(9 years)</i>
             </li>
             <li>
                 Node.js <i>(3 years)</i>
@@ -75,7 +75,7 @@ Senior Software Engineer
         <li>Unit Testing</li>
         <li>Test Doubles</li>
     </ul>
-    <b>Core</b>
+    <!-- <b>Core</b>
     <ul>
         <li>Data Structures</li> 
         <li>Algorithms</li>
@@ -85,15 +85,17 @@ Senior Software Engineer
         <li>Figma</li>
         <li>UI/UX</li>
         <li>Freeform</li>
-    </ul>
+    </ul> -->
     <b>Others</b>
     <ul>
-        <li>Vapor Server</li> 
+        <!-- <li>Vapor Server</li> 
         <li>SvelteKit</li>
         <li>WebSocket</li>
-        <li>WebRTC</li>
+        <li>WebRTC</li> -->
         <li>Git</li>
         <li>Jira</li>
+        <li>Project Estimations</li> 
+        <li>Code Reviews</li>
     </ul>
 </div>
   
@@ -115,9 +117,9 @@ Senior Software Engineer
     <a href="https://stackoverflow.com/users/2098686/kiran-s?tab=answers" class="link" target="_blank">
         Stackoverflow
     </a>    
-    <a href="https://apps.apple.com/us/developer/kiran-sarella/id1595001601" class="link" target="_blank">
+    <!-- <a href="https://apps.apple.com/us/developer/kiran-sarella/id1595001601" class="link" target="_blank">
         Apple Developer
-    </a>   
+    </a>    -->
 </div>
 
 
@@ -158,7 +160,7 @@ B.Tech in Computer Science.
         <li>B.One Hub</li>
         <li>Sharp SmartCentral</li>
         <li>PartyTutor</li>
-        <li>Notes 365</li>
+        <!-- <li>Notes 365</li> -->
         <li style="opacity: 0.4;">..more</li>
     </ul>
 </div>
