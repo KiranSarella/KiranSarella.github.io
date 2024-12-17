@@ -46,6 +46,15 @@ h2 {
     color: bisque;
 }
 
+h4 {
+    display: block;
+    font-size: 1em;
+    font-weight: 600;
+    margin: 10px 0px 10px 0px;
+    color: rgb(254, 218, 173);
+    letter-spacing: 3px;
+}
+
 .dashlist ul {
     margin: 5px 0px 0px 0px;
     list-style: none; /* Remove the default bullet points */
